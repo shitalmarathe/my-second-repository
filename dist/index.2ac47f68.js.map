@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,OAAO,IAAI,OAAO,WAAW;AACnC,MAAM,SAAS,SAAS,aAAa,CAAC;AACtC,OAAO,WAAW,GAAG","sources":["firstjs.js"],"sourcesContent":["const date = new Date().getFullYear()\nconst yearEl = document.querySelector('.year')\nyearEl.textContent = date;"],"names":[],"version":3,"file":"index.2ac47f68.js.map","sourceRoot":"/__parcel_source_root/"}
